@@ -1,0 +1,10 @@
+Country Area sq.km.
+Russia 17,075,200
+Colombia 1,138,910
+Canada 9,984,670
+Egypt 1,001,450
+USA 9,826,630
+Zambia 752,614
+China 9,596,960
+Nigeria 923,768
+Brazil 8,511,965
